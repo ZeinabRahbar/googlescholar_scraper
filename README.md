@@ -1,4 +1,4 @@
-# Google Scholar HSI Scraper
+# Google Scholar Paper Scraper
 
 A Python-based scraping tool designed to extract research paper data from **Google Scholar**, specifically focused on **Hyperspectral Image (HSI) Classification** using **Graph Neural Networks (GNNs)**.
 
